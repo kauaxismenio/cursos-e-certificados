@@ -3,7 +3,7 @@
 Curso de Introdução à Lógica de Programação.
 
 **Plataforma:** Cursa  
-**Carga horária:** 1h51min  
+**Carga horária:** 8h00min  
 **Status:** ✅ Concluído
 
 ## 📚 Conteúdos estudados
